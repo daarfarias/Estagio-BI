@@ -24,6 +24,7 @@ assinatura da Petlove e o cancelou em algum momento após a contratação</p>
  * Pandas <br>
  * Seaborn <br>
  * Matplotlib <br>
+ * Numpy <br>
  
  <h2>Aprendizado</h2>
  
