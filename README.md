@@ -20,11 +20,13 @@ conceito de “Churn” refere-se a perda de qualquer usuário que assinou o ser
 assinatura da Petlove e o cancelou em algum momento após a contratação</p>
 
 <h2>Bibliotecas</h2>
+
  * Pandas <br>
  * Seaborn <br>
  * Matplotlib <br>
  
  <h2>Aprendizado</h2>
+ 
 * Número alto de assinaturas em pausem podem representar potenciais cancelamentos.
 * Total de receitas realizadas são menores.
 * Total de pedidos em média são menores.
@@ -32,3 +34,12 @@ assinatura da Petlove e o cancelou em algum momento após a contratação</p>
 * Versão 2 da assinatura possui maior taxa de cancelamento comparado com total de assinaturas.
 * Tocantins, Goiás e Roraima são os estados com maior porcentagem de cancelamentos.
 * Faixas etárias 28-30, 55-58 e 70-72 anos possuem maior número de cancelamentos.
+
+<h2>Sugestões</h2>
+
+* Focar em campanhas para fidelizar o cliente.
+* Orientar campanhas específicas para o público com assinaturas em pausa.
+* Aproveitar período menos crítico da pandemia para aumentar número de assinaturas em razão do restabelecimento gradual de renda das pessoas.
+* Investigar o perfil dos clientes que cancelaram
+* Investigar o características regionais dos estados com maior taxa de cancelamento.
+
